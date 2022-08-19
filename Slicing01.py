@@ -7,4 +7,4 @@ def main(s):
         str: answer
     """
     return s[0:5]
-print(main('samarqand'))
+print(main("samarqand"))
